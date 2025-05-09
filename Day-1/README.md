@@ -13,11 +13,7 @@
 - 注册 GitHub，创建学习记录仓库
 - 学会如何用 GitHub 创建文件夹和 Markdown 文档
 
-👉 查看完整代码：
-- [basic.js](./basic.js)
-- [contract.sol](./contract.sol)
-- [code.js](./code.js)        
-- (https://github.com/zezeziT/web3-learning/blob/master/Day-1/code.js)
+
 
 ## 📚 学习资源参考
 
@@ -60,8 +56,13 @@
   
 ```js
 // 示例代码（展示用）
-console.log("Hello Web3!");
+console.log("Hello Web3!");     
+```
 ---
-
+👉 查看完整代码：
+- [basic.js](./basic.js)
+- [contract.sol](./contract.sol)
+- [code.js](./code.js)        
+- (https://github.com/zezeziT/web3-learning/blob/master/Day-1/code.js)
 
 
