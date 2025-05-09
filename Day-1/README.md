@@ -55,10 +55,11 @@
 ```js
 // 示例代码（展示用）
 console.log("Hello Web3!");
+---
 
 👉 查看完整代码：
 - [basic.js](./basic.js)
 - [contract.sol](./contract.sol)
 - [code.js](./code.js)
----
+
 
