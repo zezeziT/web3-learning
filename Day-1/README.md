@@ -60,6 +60,6 @@ console.log("Hello Web3!");
 👉 查看完整代码：
 - [basic.js](./basic.js)
 - [contract.sol](./contract.sol)
-- [code.js](Day-1/code.js)
+[code.js](./code.js) 
 
 
